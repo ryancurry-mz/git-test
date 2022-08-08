@@ -12,5 +12,6 @@ public class Test2 {
     @Test
     public void test(){
         System.out.println("测试测试");
+        System.out.println("测试测试22");
     }
 }
